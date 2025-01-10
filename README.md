@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma Infosolutions Ltd**. I have **14+ years** of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻, love playing various games on mobile & PC and poetry writing 🚀.
+I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma Infosolutions Ltd**. I have **10+ years** of coding experience. A passionate learner willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻, love playing various games on mobile & PC and poetry writing 🚀.
 
 - 🌱 I’m currently learning **Python, GoLang**
 
@@ -8,7 +8,7 @@ I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma 
 
 - 📫 How to reach me **contact.lokeshboran@gmail.com**
 
-- ⚡ Fun fact **Pepole know me by my nickname Loki and I am good poet.**
+- ⚡ Fun fact **People know me by my nickname Loki and I am good poet.**
 
 
 <br>
@@ -93,7 +93,7 @@ I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma 
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 3:41 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 5:15 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
@@ -103,6 +103,7 @@ I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma 
     <img  height="25" alt="Forks" src="https://img.shields.io/github/forks/lokeshboran/lokeshboran?style=flat&labelColor=343b41"/>
     <img  height="25" alt="Visitors" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=lokeshboran&countColor=%237B1E7A"/> 
     <img  height="25" alt="Open Source Love" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
   </p>
 </div>
 
