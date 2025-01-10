@@ -64,7 +64,7 @@ I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LokeshBoran&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=LokeshBoran&theme=dark)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokeshboran&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshboran&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=lokeshboran&column=6&margin-w=10)
@@ -93,7 +93,7 @@ I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma 
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 3:36 pm IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 10 January at 3:41 pm IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
