@@ -1,0 +1,24 @@
+{
+    "name": "lokeshboran",
+    "version": "1.0.0",
+    "description": "Awesome Github Personal README Profile",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/lokeshboran/lokeshboran.git"
+    },
+    "author": "Lokesh Boran",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/lokeshboran/lokeshboran/issues"
+    },
+    "homepage": "https://github.com/lokeshboran/lokeshboran#readme",
+    "dependencies": {
+      "dotenv": "^16.0.3",
+      "mustache": "^4.2.0"
+    }
+  }
