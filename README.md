@@ -93,7 +93,7 @@ I'm **Lokesh Boran (Loki)**, working as **Associate Technical Architect @ Sigma 
 <br>
 <div width="100%" align="center">
   <p align="center">
-    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 12 January at 2:41 am IST
+    This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 12 January at 6:39 am IST
     <br />
     <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
   </p>
